@@ -3,11 +3,11 @@ let lessButton = document.querySelector("#lessButton")
 let i = 0;
 let img = document.querySelector("#flowerImg")
 let imgArr = [
-    "http:/image/img_1.jpg",
-    "http:/image/img_2.jpg",
-    "http:/image/img_3.jpg",
-    "http:/image/img_4.jpg",
-    "http:/image/img_5.jpg",
+    "image/img_1.jpg",
+    "image/img_2.jpg",
+    "image/img_3.jpg",
+    "image/img_4.jpg",
+    "image/img_5.jpg",
 ]
 lessButton.addEventListener("click", () => {
     i++;
